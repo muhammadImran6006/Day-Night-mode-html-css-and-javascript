@@ -21,9 +21,3 @@ A stylish and responsive **Day/Night Mode toggle UI** built using **HTML, CSS, a
 ![screencapture-file-E-Progamming-Youtube-Projects-JavaScript-projects-day-night-mode-index-html-2025-06-18-00_10_16](https://github.com/user-attachments/assets/2ed09962-5cd6-4d36-96fb-70e3deacaf22)
  <!-- Replace with actual screenshot if available -->
 
-## 🚀 Live Demo
-
-👉 [View Live Project](https://yourusername.github.io/day-night-toggle/)  
-*(Replace the link with your GitHub Pages link)*
-
-
